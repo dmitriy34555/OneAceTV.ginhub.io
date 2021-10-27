@@ -373,7 +373,9 @@
             content: " ";
             margin-right: 10px
         }
-        
+        .itemHolder {
+            font-size: 40px;
+        }
         @media (max-width:991px) {
             .promo-section .promo-section-col {
                 padding-top: 100px;
